@@ -1,0 +1,5 @@
+.netrwhist
+swap/*
+backup/*
+!swap/VERSION\ THIS\ DIRECTORY
+!backup/VERSION\ THIS\ DIRECTORY
