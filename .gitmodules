@@ -22,3 +22,6 @@
 [submodule "bundle/delimitMate"]
 	path = bundle/delimitMate
 	url = https://github.com/Raimondi/delimitMate
+[submodule "fonts"]
+	path = fonts
+	url = https://github.com/Lokaltog/powerline-fonts
