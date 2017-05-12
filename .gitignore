@@ -8,3 +8,4 @@ bundle/cache_vi
 bundle/cache_vim
 bundle/state_vi.vim
 bundle/state_vim.vim
+bundle/repos/*
