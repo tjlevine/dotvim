@@ -1,4 +1,6 @@
-#This is my .vim directory.
+# Tyler Levine's .vim directory.
 
-###Important!
-**Make sure you clone with --recursive to download all the plugins as they are git submodules.**
+## Designed for use with my (dotfile bootstrapper)[https://github.com/tjlevine/dotfiles]
+
+## Installing
+`git clone --recursive git@github.com:tjlevine/dotvim.git`
