@@ -6,7 +6,7 @@ link() {
     TARGETDIR="$2"
     [ ! -e "$TARGETDIR" ] && mkdir -p "$TARGETDIR"
 
-    find "$SRCDIR" -name '*.ttf' -exec cp {} "$TARGETDIR" \;
+    find "$SRCDIR" -name '*.ttf' -exec cp -v {} "$TARGETDIR" \;
 }
 
 install_linux() {
